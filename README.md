@@ -2,7 +2,7 @@
 
 ## 👨‍💻​ About me
 
-A coding enthusiast with passion for crafting seamless and pleasant web experiences.  
+A coding enthusiast with a passion for crafting seamless and pleasant web experiences.  
 I'm always looking for new things to learn and ways to improve.
 
 [My Portfolio](https://axel-houairi.vercel.app/)
