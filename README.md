@@ -1,9 +1,7 @@
-<h1 align="center">Hey 👋 i'm Axel.</h1>
+# 👨‍💻​ Hey there, i'm Axel !
 
-## 👨‍💻​ About me
-
-A coding enthusiast with a passion for crafting seamless and pleasant web experiences.  
-I'm always looking for new things to learn and ways to improve.
+I am a passionate developer from France 🥖 who's goal is to create smooth and pleasant web experiences.  
+I'm always on the look out for new stuff to learn and strive to improve in everything i do day by day !
 
 [My Portfolio](https://axel-houairi.vercel.app/)
 
