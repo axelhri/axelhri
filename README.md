@@ -1,40 +1,44 @@
-## Hey 👋 i'm Axel.
+<h1 align="center">Hey 👋 i'm Axel.</h1>
 
-### 👨‍💻​ About me
+## 👨‍💻​ About me
 
-A coding enthusiast with a passion for crafting seamless web experiences and always looking for new things to learn.
+A coding enthusiast with passion for crafting seamless and pleasant web experiences.  
+I'm always looking for new things to learn and ways to improve.
 
-[Portfolio](https://axel-houairi.vercel.app/)
+[My Portfolio](https://axel-houairi.vercel.app/)
 
-### 🌐 Tech Stack
+## 💻 Tech Stack
 
-- ![HTML5](https://img.shields.io/badge/-HTML-222?logo=html5)
-- ![CSS](https://img.shields.io/badge/-CSS-222?logo=css&logoColor=purple)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-222?logo=JavaScript)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222?logo=PostgreSQL)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-222?logo=MongoDB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-%238622b6.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🛠️​ Tools and Frameworks
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-- ![NodeJS](https://img.shields.io/badge/-NodeJS-222?logo=nodedotjs&logoColor=green)
-- ![React](https://img.shields.io/badge/-React-222?logo=React)
-  ![Vite](https://img.shields.io/badge/-Vite-222?logo=Vite)
-- ![Git](https://img.shields.io/badge/-Git-222?logo=Git) ![GitHub](https://img.shields.io/badge/-GitHub-222?logo=GitHub)
-- ![Figma](https://img.shields.io/badge/-Figma-222?logo=Figma)
+![React](https://img.shields.io/badge/react-%23323340.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23323380?style=for-the-badge&logo=vite&logoColor=yellow) ![Next](https://img.shields.io/badge/next.js-%23323330?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 🌠​ My projects
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%23316132.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-> [Luderia]() : Cloud gaming plateform made with : **Node.js**, **Express**, **PostgreSQL**, **React** and **Vite**.
+![Git](https://img.shields.io/badge/git-%23313541?style=for-the-badge&logo=git&logoColor=red)
+![GitHub](https://img.shields.io/badge/github-%23313131?style=for-the-badge&logo=github&logoColor=white)
 
-> [Petit-Creux](https://petit-creux.vercel.app/) : Web application for sharing cooking recipes made with : **Node.js**, **Express**, **MongoDB**, **React** and **Vite**.
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📬​ Contact me
+## 🌠​ Projects
+
+> [Luderia]() : Cloud gaming plateform made with **Node.js**, **Express**, **PostgreSQL**, **React** and **Vite**.
+
+> [Petit-Creux](https://petit-creux.vercel.app/) : Web application for sharing cooking recipes made with **Node.js**, **Express**, **MongoDB**, **React** and **Vite**.
+
+## 📬​ Contact me
 
 ✨ Feel free to check out my projects and connect with me ! ✨
 
 - **Email** : axelhouairi@gmail.com
 - **Discord** : axelhri
 
-### 📊​ GitHub stats
+## 📊​ GitHub stats
 
 ![axelhri's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=axelhri&layout=compact&theme=white)
