@@ -30,7 +30,7 @@ I'm always on the look out for new stuff to learn and strive to improve in every
 
 > [Les Jardins de Magotte](https://les-jardins-de-magotte.vercel.app/) : Landing page for a market gardener made with **Node.js**, **Express**, **MongoDB**, **React** and **Vite**.
 
-> [Luderia]() : (WIP) Cloud gaming plateform i'm currently working on using **Node.js**, **Express**, **PostgreSQL**, **React** and **Next.js**.
+> [Luderia]() : (WIP) Cloud gaming platform i'm currently working on using **Node.js**, **Express**, **PostgreSQL**, **React** and **Next.js**.
 
 ## 📬​ Contact me
 
