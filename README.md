@@ -24,8 +24,6 @@ I build **robust** and **scalable** web applications, with a strong focus on **c
 
 ![Git](https://img.shields.io/badge/git-%23313541?style=for-the-badge&logo=git&logoColor=red)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ## 🌠​ Projects
 
 > [Luderia]() : Cloud gaming plateform made with **Node.js**, **Express**, **PostgreSQL**, **React** and **Vite**.
@@ -33,8 +31,6 @@ I build **robust** and **scalable** web applications, with a strong focus on **c
 > [Petit-Creux](https://petit-creux.vercel.app/) : Web application for sharing cooking recipes made with **Node.js**, **Express**, **MongoDB**, **React** and **Vite**.
 
 > [Les Jardins de Magotte](https://les-jardins-de-magotte.vercel.app/) : Landing page for a market gardener made with **Node.js**, **Express**, **MongoDB**, **React** and **Vite**.
-
-> [Luderia]() : (WIP) Cloud gaming platform i'm currently working on using **Node.js**, **Express**, **PostgreSQL**, **React** and **Next.js**.
 
 ## 📬​ Contact me
 
