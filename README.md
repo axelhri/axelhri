@@ -1,4 +1,4 @@
-## Hello ! 👋
+# Hello ! 👋
 
 I'm **Axel**, a passionate backend developer specialized in Java & Spring Boot.
 
@@ -24,7 +24,7 @@ I build **robust** and **scalable** web applications, with a strong focus on **c
 
 ![Git](https://img.shields.io/badge/git-%23313541?style=for-the-badge&logo=git&logoColor=red)
 
-## 🌠​ Projects
+## 🗂️​ Projects
 
 > [Luderia]() : Cloud gaming plateform made with **Node.js**, **Express**, **PostgreSQL**, **React** and **Vite**.
 
