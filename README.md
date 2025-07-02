@@ -1,8 +1,8 @@
 # Hello ! 👋
 
-<h3>I'm **Axel**, a passionate backend developer specialized in Java & Spring Boot.</h3>
+I'm **Axel**, a passionate backend developer specialized in Java & Spring Boot.
 
-<h3>I build **robust** and **scalable** web applications, with a strong focus on **clean architecture**.</h3>
+I build **robust** and **scalable** web applications, with a strong focus on **clean architecture**.
 
 [My Website](https://axel-houairi.vercel.app/)
 
