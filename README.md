@@ -23,8 +23,6 @@ I build **robust** and **scalable** applications, with a strong focus on **clean
 
 ## 🗂️​ Projects
 
-> [Luderia]() : Cloud gaming plateform made with **Node.js**, **Express**, **PostgreSQL**, **React** and **Vite**.
-
 > [Petit-Creux](https://petit-creux.vercel.app/) : Web application for sharing cooking recipes made with **Node.js**, **Express**, **MongoDB**, **React** and **Vite**.
 
 > [Les Jardins de Magotte](https://les-jardins-de-magotte.vercel.app/) : Landing page for a market gardener made with **Node.js**, **Express**, **MongoDB**, **React** and **Vite**.
