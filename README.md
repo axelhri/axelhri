@@ -14,7 +14,7 @@ I build **robust** and **scalable** applications, with a strong focus on **clean
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Typescript](https://img.shields.io/badge/typescript-%23326890.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%23323340.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Typescript](https://img.shields.io/badge/typescript-%23326890.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23C9302F?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%23323340.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23316132.svg?style=for-the-badge&logo=mongodb&logoColor=white)
